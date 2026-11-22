@@ -35,3 +35,4 @@
 | **Assignment 2** | [Assignment 2 Folder](./results/Assignment%202) |
 | **Assignment: Lab 06 (OCR)** | <ul><li>[PDF Submission](./Lab06_Assignment/)</li><li>[Evidence Folder](./Lab06_Assignment/evidence/)</li></ul> |
 | **Assignment: Reasoning & Semantic Network** | <ul><li>[Assignment Document](./Assignment_Reasoning_Semantic_NLP/)</li><li>[Semantic Network Diagram](./Assignment_Reasoning_Semantic_NLP/semantic_network.JPG)</li></ul> |
+| **Assignment: Genetic Algorithm (Delivery Route)** | <ul><li>[GA Assignment Folder](./GA%20Assignment/)</li><li>[Python Script (`ga_delivery_route.py`)](./GA%20Assignment/ga_delivery_route.py)</li></ul> |
