@@ -24,6 +24,7 @@
 | **Lab 05** | [Lab 05 Script](./all_experiments/) | [Lab 05 Results](./results/lab05) |
 | **Lab 06** | [Lab 06 Script](./all_experiments/) | [Lab 06 Results](./results/lab06) |
 | **Lab 07** | [Lab 07 Script](./all_experiments/) | [Lab 07 Results](./results/lab07) |
+| **Lab 08** | [Lab 08 Script](all_experiments/lab08_genetic_algorithm_regression.py) | [Lab 08 Results](results/lab08) |
 
 ---
 
